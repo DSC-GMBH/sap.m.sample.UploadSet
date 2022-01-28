@@ -10,9 +10,9 @@
 1. Add three or more testFiles by drag-and-drop or the browse icon
 2. Watch the console output
 
-[Browse](gifs/Browse.gif)
+![Browse](gifs/Browse.gif)
 
-[DragAndDrop](gifs/DragAndDrop.gif)
+![DragAndDrop](gifs/DragAndDrop.gif)
 
 
 ### instantUpload set to false
@@ -22,4 +22,4 @@
 3. Try to delete the lowest added file
 
 
-[InstantUploadFalse](gifs/InstantUploadFalse.gif)
+![InstantUploadFalse](gifs/InstantUploadFalse.gif)
